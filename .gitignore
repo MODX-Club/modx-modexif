@@ -1,0 +1,7 @@
+_build/build.config.php
+.git
+manager
+assets
+**/templates/*
+**/controllers/*
+**/lexicon/*
