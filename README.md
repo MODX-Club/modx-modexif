@@ -1,0 +1,1 @@
+./core/components/modexif/docs/readme.txt
