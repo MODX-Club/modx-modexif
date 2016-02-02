@@ -1,7 +1,8 @@
-_build/build.config.php
+.build/build.config.php
 .git
 manager
 assets
 **/templates/*
 **/controllers/*
 **/lexicon/*
+**/chunks/*
